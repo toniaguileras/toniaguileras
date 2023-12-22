@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋🏼 I'm Tony and I'm a software engineer working with hexagonal arquitecture, TDD methodology and Kotlin.<br>I work with Spring, Gradle and different databases, like postgresSQL, SQL server, MySQL... <br><br>I love to code and keep learning new techniques and different approaches!
+Hello! 👋🏼 I'm Tony, a passionate Software Engineer specializing in Hexagonal Architecture, Test-Driven Development (TDD), and Kotlin/Java.</br> Currently, I contribute to innovative projects at Adevinta, where I lead the implementation of solutions using technologies such as Spring, Gradle, and various databases, including PostgreSQL, SQL Server, and MySQL, among others. My focus is on creating robust and efficient solutions that add value to projects. I am passionate about learning new techniques and approaches to stay updated in a constantly evolving technological environment.
 
 
 ## 🌐 Socials:
