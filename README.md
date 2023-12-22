@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋🏼 I'm Tony and I'm a software engineer working with hexagonal arquitecture with TDD methodology and Kotlin.<br>I work with spring, gradle, and different databases, like postgresSQL, SQL server, MySQL... <br><br>I love to code and keep learning new techniques and different aproaches. 
+Hi! 👋🏼 I'm Tony and I'm a software engineer working with hexagonal arquitecture, TDD methodology and Kotlin.<br>I work with spring, gradle, and different databases, like postgresSQL, SQL server, MySQL... <br><br>I love to code and keep learning new techniques and different aproaches. 
 
 
 ## 🌐 Socials:
